@@ -1,7 +1,7 @@
 def do_connect():
     import network
     from time import sleep
-    from secrets import secrets
+    from credentials import secrets
     import machine
 
     wlan = network.WLAN(network.STA_IF)         # Put modem on Station mode
