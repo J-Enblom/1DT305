@@ -144,6 +144,9 @@ Note: since I have not had my project active for that long the duration of my ch
 
 My final thoughts on this project that it was a fun way to get introduced to IoT and very beginner friendly. Just creating this project and doing research made me get a lot of other ideas which I hopefully will go through with in the future.
 
+![](https://hackmd.io/_uploads/HywC9bGF2.jpg)
+
+Note: This is not setup exactly as described before, this is because I used parts I hade avaible, but the method described is the cheapest and there is no difference.
 
 
 
